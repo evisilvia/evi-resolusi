@@ -2,9 +2,11 @@ RENCANA KONTEN EVI
 - javascript
   *ES6
   *Framework Javascipt
-    ^ Angular
-    ^ React
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
 - PHP frameworks
   ^ Laravel
 - Interview
 - Vlog
+- Python
