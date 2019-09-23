@@ -3,6 +3,7 @@ RENCANA KONTEN EVI
   *ES6
   *Framework Javascipt
    ^ Vue
+   ^ React
 - Struktur Data Dasar
 - PHP frameworks
   ^ Laravel
