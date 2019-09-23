@@ -1,5 +1,7 @@
 RENCANA KONTEN EVI
 - javascript
+  *ES6
+  *Framework Javascipt
 - PHP frameworks
 - Interview
 - Vlog
